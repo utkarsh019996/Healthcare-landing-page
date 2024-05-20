@@ -48,7 +48,7 @@ img{
 
 header{
     background-image: linear-gradient(to right, rgba(18,172,142,.9),
-    rgba(18,172,142,0.7)), url(assets/header.jpg);
+    rgba(18,172,142,0.7)), url(header.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
